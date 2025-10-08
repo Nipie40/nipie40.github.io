@@ -234,3 +234,7 @@ h1 {
     text-align: left;
     padding-left: 10px;
 }
+
+.backgroundimage {
+    display: none;   
+}
