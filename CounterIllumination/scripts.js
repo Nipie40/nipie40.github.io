@@ -3,7 +3,7 @@
 // ########################################################
 
 // The active locale
-let locale = "en";
+let locale = "de";
 
 const translations = {
     // English translations
