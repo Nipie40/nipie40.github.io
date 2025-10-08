@@ -217,6 +217,7 @@ window.addEventListener('DOMContentLoaded', () => {
     if (localeSelect) {
         localeSelect.addEventListener('change', (e) => setLocale(e.target.value));
     }
+    setLocale(locale); // initial translation
 
     // Theme checkbox
     const themeCheckbox = document.getElementById('theme-toggle-checkbox');
