@@ -13,6 +13,11 @@ const translations = {
         "player-2": "Player 2",
         "player-3": "Player 3",
         "player-4": "Player 4",
+        "phase_1": "Phase 1: Count Exposed Animals",
+        "phase_2": "Phase 2: Score Formations",
+        "phase_3": "Phase 3: Largest Area of a Color",
+        "phase_4": "Phase 4: Score Volcanoes",
+        "phase_5": "Phase 5: Total Score",
     },
     // German translations
     "de": {
@@ -21,6 +26,11 @@ const translations = {
         "player-2": "Spieler 2",
         "player-3": "Spieler 3",
         "player-4": "Spieler 4",
+        "phase_1": "Phase 1: Offenliegende Tiere zählen",
+        "phase_2": "Phase 2: Formationen werten",
+        "phase_3": "Phase 3: Größtes Gebiet einer Farbe",
+        "phase_4": "Phase 4: Vulkane auswerten",
+        "phase_5": "Phase 5: Punktestand",
     },
 };
 // Translate all elements with a data-i18n-key attribute
