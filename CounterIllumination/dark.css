@@ -235,3 +235,8 @@ h1 {
 .theme-toggle input:checked + .slider:before {
     transform: translateX(22px);
 }
+
+.cat_title {
+    text-align: left;
+    padding-left: 10px;
+}

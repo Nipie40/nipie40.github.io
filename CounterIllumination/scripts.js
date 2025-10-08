@@ -158,7 +158,7 @@ window.addEventListener('DOMContentLoaded', () => {
 function onPointsInputChange() {
     const pointsInputs = document.querySelectorAll('.points-input');
     const numPlayers = 4;
-    const categories = ['orange', 'blue', 'green', 'yellow', 'red', 'low_water', 'mid_water', 'high_water'];
+    const categories = ['lumi', 'orange', 'blue', 'green', 'yellow', 'red', 'low_water', 'mid_water', 'high_water', 'vulkan'];
     let allPoints = [];
     for (let i = 0; i < numPlayers; i++) {
         allPoints[i] = {};
