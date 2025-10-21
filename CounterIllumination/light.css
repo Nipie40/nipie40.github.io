@@ -116,7 +116,7 @@ h1 {
 }
 
 .points-table td.leftborderfree, .points-table th.leftborderfree {
-    border-right: 0px solid;
+    border: 0px solid;
 }
 
 .points-table td:hover td {
