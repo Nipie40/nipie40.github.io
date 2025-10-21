@@ -22,10 +22,10 @@ const translations = {
     // German translations
     "de": {
         "app-title": "Counter Illumination",
-        "player-1": "Spieler 1",
-        "player-2": "Spieler 2",
-        "player-3": "Spieler 3",
-        "player-4": "Spieler 4",
+        "player-1": "Spieler:in 1",
+        "player-2": "Spieler:in 2",
+        "player-3": "Spieler:in 3",
+        "player-4": "Spieler:in 4",
         "phase_1": "Phase 1: Offenliegende Tiere zählen",
         "phase_2": "Phase 2: Formationen werten",
         "phase_3": "Phase 3: Größtes Gebiet einer Farbe",
